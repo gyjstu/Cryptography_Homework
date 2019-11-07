@@ -154,9 +154,9 @@ def LAT(sBoxes,tp):
     print()
 ################################# MAIN #############################################3
 #DDT
-# printAllDDT(Sboxes, 0)
-# printAllDDT(Sboxes1, 1)
+printAllDDT(Sboxes, 0)
+printAllDDT(Sboxes1, 1)
 
 #LAT
 LAT( Sboxes,0 )
-#LAT(Sboxes1,1)
+LAT(Sboxes1,1)
